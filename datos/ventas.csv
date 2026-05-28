@@ -1,0 +1,13 @@
+id,fecha_venta,producto,precio,cantidad_vendida
+1,2026-01-05,Teclado Mecánico,80.0,5
+2,2026-01-15,Mouse Inalámbrico,30.0,10
+3,2026-02-10,"Monitor 24""",200.0,3
+4,2026-02-20,Teclado Mecánico,80.0,2
+5,2026-03-05,Auriculares Gamer,60.0,8
+6,2026-03-18,Mouse Inalámbrico,30.0,15
+7,2026-04-02,"Monitor 24""",200.0,4
+8,2026-04-15,Auriculares Gamer,60.0,6
+9,2026-05-01,Teclado Mecánico,80.0,3
+10,2026-05-22,Notebook Pro,1200.0,1
+11,2026-06-10,Mouse Inalámbrico,30.0,12
+12,2026-06-25,Notebook Pro,1200.0,2
